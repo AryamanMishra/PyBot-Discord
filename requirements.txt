@@ -84,7 +84,6 @@ python-youtube==0.8.1
 pytrends==4.7.3
 pytube==10.8.1
 pytz==2020.4
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
