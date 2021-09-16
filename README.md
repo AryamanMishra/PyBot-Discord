@@ -10,4 +10,4 @@
     Use !manual for manual
    </body> 
 </html>
-https://discord.com/api/oauth2/authorize?client_id=813788023736631308&permissions=519232&scope=bot
+Bot invite Link: https://discord.com/api/oauth2/authorize?client_id=813788023736631308&permissions=519232&scope=bot
