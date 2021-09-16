@@ -15,6 +15,6 @@
     Use !bb for BB Ki Vines videos
     Use !manual for manual
     
-    <a>https://discord.com/api/oauth2/authorize?client_id=813788023736631308&permissions=519232&scope=bot</a>
+    [Bot invite Link: ](https://discord.com/api/oauth2/authorize?client_id=813788023736631308&permissions=519232&scope=bot)
    </body> 
 </html>
