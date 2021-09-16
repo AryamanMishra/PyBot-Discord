@@ -103,7 +103,6 @@ traitlets==5.0.5
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
 urllib3==1.26.2
-vboxapi==1.0
 virtualenv==20.2.1
 wcwidth==0.2.5
 webencodings==0.5.1
