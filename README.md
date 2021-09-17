@@ -1,7 +1,9 @@
 
 <html>  
    <body>
-    <h3>Hello there I am motivation bot</h3>
+    <h3>This is a basic Discord bot scripted in Python which can generate random motivation quotes and gaming videos. </h3>
+    <h4> Running on heroku web dynos </h4>
+    <h4> Currently the random pool is small but will be enlarged soon. </h4>
 
     Use !motivate for motivation quotes
     Use !support for supporting quotes
