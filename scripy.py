@@ -46,8 +46,8 @@ async def on_message(message):
     if message.content.startswith('!games'):
         await message.channel.send('Follow this link for the best gaming video: ' + random.choice(links_games))
     if message.content.startswith('!manual'):
-        await message.channel.send('Hello there I am motivation bot ' + 
-        'I will try to give you the best motivation along side fun gaming videos and videos of the best indian youtubers. ' + '\n' + 
+        await message.channel.send('Hello there I am PyBot ' + 
+        'I will try to give you the best motivation along side fun gaming and motivational videos. ' + '\n' 
         
         'Thanks for the support!! ' + '\n' + 'Use !motivate for motivation quotes '+ '\n' + 'Use !support for supporting quotes ' + '\n' 'Use !video for motivating videos' + '\n' + 'Use !games for gaming videos' + '\n'  + 'Use !manual for manual')
 
