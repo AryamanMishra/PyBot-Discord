@@ -1,6 +1,4 @@
-# heroku deployed again
-# add env
-################
+# heroku deployed
 
 import discord as DS
 import random
@@ -51,7 +49,7 @@ async def on_message(message):
         await message.channel.send('Hello there I am PyBot ' + 
         'I will try to give you the best motivation along side fun gaming and motivational videos. ' + '\n' 
         
-        + '\n' + 'Use !motivate for motivation quotes '+ '\n' + 'Use !support for supporting quotes ' + '\n' 'Use !video for motivating videos' + '\n' + 'Use !games for gaming videos' + '\n'  + 'Use !manual for manual')
+        'Thanks for the support!! ' + '\n' + 'Use !motivate for motivation quotes '+ '\n' + 'Use !support for supporting quotes ' + '\n' 'Use !video for motivating videos' + '\n' + 'Use !games for gaming videos' + '\n'  + 'Use !manual for manual')
 
         
 client.run(os.getenv('TOKEN'))
